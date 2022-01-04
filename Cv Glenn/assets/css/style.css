@@ -1,0 +1,125 @@
+.main{
+    width: 62.5%;
+    margin-left: 275px;
+    background-color: white;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    font-size: 50px;
+    font-family: 'Verdana', sans-serif;
+}
+.profession{
+    font-family: 'Arial', sans-serif;
+}
+.designerdiv{
+    margin-left: 50px;
+}
+.contactinfodiv{
+    margin-right: 150px;
+}
+.address{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+}
+.phone{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+    margin-left: 13px;
+}
+a{
+    color: deepskyblue;
+}
+.email{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+    margin-left: 18px;
+}
+.web{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+    margin-left: 28px;
+}
+.photo{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+    margin-left: 15px;
+}
+.mainpdiv{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.mainp{
+    font-family: 'Verdana', sans-serif;
+    font-style: italic;
+    color: darkgray;
+}
+.firstmdiv{
+    display: flex;
+    justify-content: space-between;
+}
+.employmentdiv{
+    margin-left: 50px;
+}
+.educationdiv{
+    margin-right: 50px;
+}
+.employment{
+    color: rgb(7, 112, 218);
+}
+.education{
+    color: rgb(7, 112, 218);
+}
+.firstdate{
+    font-family: 'Verdana', sans-serif;
+    color: darkgray;
+}
+.seconddate{
+    font-family: 'Verdana', sans-serif;
+    color: darkgray;
+}
+.thirddate{
+    font-family: 'Verdana', sans-serif;
+    color: darkgray;
+}
+.fourdate{
+    font-family: 'Verdana', sans-serif;
+    color: darkgray;
+}
+.fivedate{
+    font-family: 'Verdana', sans-serif;
+    color: darkgray;
+}
+.secondmdiv{
+    display: flex;
+    justify-content: space-between;
+}
+.referencesdiv{
+    margin-left: 50px;
+}
+.computerdiv{
+    margin-right: 50px;
+}
+.references{
+    color: rgb(7, 112, 218);
+}
+.courses{
+    color: rgb(7, 112, 218);
+}
+.computer{
+    color: rgb(7, 112, 218);
+}
+.thirdmdiv{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.information{
+    color: rgb(7, 112, 218);
+}
