@@ -1,0 +1,79 @@
+.process{
+    display: flex;
+    justify-content: space-between;
+}
+.Login{
+    margin-top: 50px;
+    margin-left: 280px;
+}
+.Logo{
+    width: 25%;
+    height: 100px;
+}
+.Logos{
+    display: flex;
+    justify-content: center;
+}
+.have{
+    font-family: "Monaco", monospace;
+    font-weight: bolder;
+}
+.email{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 100%;
+    height: 20px;
+    font-style: italic;
+}
+.password{
+    border: none;
+    border-bottom: 2px solid rgb(124, 124, 124);
+    width: 100%;
+    height: 20px;
+    font-style: italic;
+}
+.in{
+    font-size: large;
+}
+.your{
+    color: black;
+}
+.forgot{
+    margin-left: 275px;
+}
+.select{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    background-color: #eee;
+}
+.remember{
+    margin-left: 20px;
+}
+.signinbutton{
+    color: white;
+    background-color: #d30b37;
+    border: #d30b37;
+    width: 100%;
+    height: 38px;
+}
+.new{
+    margin-top: 50px;
+    margin-right: 410px;
+}
+.newturtle{
+    font-family: "Monaco", monospace;
+    font-weight: bolder;
+}
+.createbutton{
+    color: white;
+    background-color: #d30b37;
+    border: #d30b37;
+    width: 170%;
+    height: 38px;
+}
+.vl{
+    border-left: 2px solid rgb(124, 124, 124);
+    height: 310px;
+    margin-top: 80px;
+}

@@ -1,0 +1,202 @@
+.Download{
+    background: #666; 
+    color: white;
+    width: 100%;
+    height: 30px;
+}
+.number{
+    font-family: "Lucida Handwriting", cursive;
+}
+.name{
+    font-size: xx-large;
+}
+hr{
+    background-color: dimgray;
+    
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.mail{
+    color: firebrick;
+}
+.profession{
+    font-family: "Times New Roman", serif;
+    /* font-weight: bold; */
+}
+.sagol{
+    margin-left: 100px;
+}
+.s{
+    margin-right: 100px;
+}
+.mainhr{
+    border-top: 6px solid #666;
+    width: 100%;
+}
+.main{
+    background-color: rgb(240, 238, 238);
+    width: 75%;
+    margin-left: 200px;
+}
+.firsthr{
+    width: 83%;
+}
+.profile{
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+}
+.firstmdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.firsth{
+    margin-left: 100px;
+}
+.mainfirstpdiv{
+    margin-right: 170px;
+}
+.firstp{
+    font-size: 18px;
+}
+.secondhr{
+    width: 83%;
+    margin-top: 40px;
+}
+.skillsdiv{
+    margin-top: 10px;
+}
+.skills{
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    margin-top: 5px;
+}
+.secondmdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.secondh{
+    margin-left: 100px;
+}
+.webdesign{
+    font-size: 18px;
+}
+.interfacedesign{
+    font-size: 18px;
+}
+.projectdirection{
+    font-size: 18px;
+}
+.mainsecondpdiv{
+    display: flex;
+    /* margin-right: 350px; */
+}
+.second1pdiv{
+    margin-right: 70px;
+}
+.second2pdiv{
+    margin-right: 100px;
+}
+.second3pdiv{
+    margin-right: 180px;
+}
+.thirdhr{
+    width: 83%;
+    margin-top: 40px;
+}
+.technical{
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+}
+.thirdh{
+    margin-left: 100px;
+}
+.thirdmdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.third1pdiv{
+    display: flex;
+    margin-right: 210px;
+}
+.xhtmldiv{
+    margin-right: 50px;
+}
+.jquerydiv{
+    margin-left: 160px;
+}
+.osxdiv{
+    /* margin-right: 30px; */
+    margin-left: 230px;
+}
+.fourthhr{
+    width: 83%;
+    margin-right: 150px;
+}
+.third2pdiv{
+    display: flex;
+    margin-right: 210px;
+}
+.cssdiv{
+    margin-right: 238px;
+}
+.phpdiv{
+    margin-right: 240px;
+}
+.windowsdiv{
+    margin-right: 10px;
+}
+.fifthhr{
+    width: 83%;
+    margin-right: 150px;
+}
+.third3pdiv{
+    display: flex;
+    margin-right: 210px;
+}
+.javascriptdiv{
+    margin-right: 200px;
+}
+.cvsdiv{
+    margin-right: 160px;
+}
+.linuxdiv{
+    margin-right: 10px;
+}
+.sixhr{
+    width: 83%;
+    margin-top: 40px;
+}
+.fourthmdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.fourthh{
+    margin-left: 100px;
+}
+.experience{
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+}
+.fourthpdiv{
+    margin-right: 80px;
+}
+.facebookp{
+    font-size: 20px;
+}
+.seniorp{
+    font-size: 18px;
+}
+.year{
+    margin-left: 630px;
+    font-family: "Lucida Handwriting", cursive;
+}
+.sevenhr{
+    margin-top: 40px;
+    border-top: 3px solid #666;
+}
